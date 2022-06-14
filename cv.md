@@ -1,6 +1,6 @@
 # Artsem Vysotski #
 **Minsk, Belarus**
----
+
 ## Contact me ##
 **linkedIn:** [artsem V](https://www.linkedin.com/in/artsem-vysotski/)  
 **GitHub:** [artemiusV](https://github.com/artemiusV)  
@@ -21,15 +21,15 @@
 
 ## Education and experience ##  
 
-**Belarusian National Technical University**
-Faculty of Energy Constraction
+**Belarusian National Technical University**  
+Faculty of Energy Constraction  
 *2009-2014*
 
-**JavaScript V2.0 Alex Lushchenko**
+**JavaScript V2.0 Alex Lushchenko**  
 Over 400 technology challenges: JavaScript, Loops, Arrays, DOM,
 Object, Touch, API, AJAX
 
-**Web Applicattion Development With JavaScript**
+**Web Applicattion Development With JavaScript**  
 *It-Academy*
 
 * Working with the DOM  
@@ -48,3 +48,7 @@ Object, Touch, API, AJAX
 * Forms. Positioning. HTML5  
 * Multimedia. css3. Animation. flexible
 
+## Languages ## 
+
+**English - B1**  
+**Russian - Native**
