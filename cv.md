@@ -29,7 +29,7 @@ Faculty of Energy Constraction
 Over 400 technology challenges: JavaScript, Loops, Arrays, DOM,
 Object, Touch, API, AJAX
 
-**Web Applicattion Development With JavaScript**  
+**Web Applicattion Development With JavaScript**    
 *It-Academy*
 
 * Working with the DOM  
@@ -39,7 +39,7 @@ Object, Touch, API, AJAX
 * JSON. Storing data on the client. MVC  
 * Final project: [Final Project](https://github.com/artemiusV/classic_tanks_1990.git)
 
-**Website Development Using HTML and CSS**
+**Website Development Using HTML and CSS**  
 *It-Academy*
 
 * Wrap around. Layout layouts. Selectors  
